@@ -8,3 +8,4 @@ The assignment requires an update in hw1-p before a pull request.
 
 hw1-p must have a successful github action check
 
+The merge from hw1-f to main should fail
