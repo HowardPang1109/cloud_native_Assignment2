@@ -55,3 +55,4 @@ fi
 - **成功條件**：來自 `hw1-p` 的 PR → 成功執行 GitHub Action
 - **失敗條件**：來自 `hw1-f` 的 PR → 故意觸發錯誤，GitHub Action 執行失敗
 
+The merge from hw1-f to main should fail
